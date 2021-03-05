@@ -1,0 +1,23 @@
+/* 
+x
+xx
+xxx
+xxxx
+xxxxx
+xxxxxx
+
+
+
+
+
+ */
+ let a = '+';
+
+ for (let i=1; i<=7; i++){
+
+ console.log(a);
+ a = a + '+';
+}
+
+
+
